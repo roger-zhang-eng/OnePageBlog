@@ -1,6 +1,4 @@
-Hey friend 👋
-
-Thank you for downloading the 'Clutterless' WordPress Theme!
+OnePageBlog Info
 
 ## Useful links and info:
 - [Theme Page](https://onepagelove.com/clutterless) (features and screenshot)
